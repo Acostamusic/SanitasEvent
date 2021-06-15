@@ -29,8 +29,8 @@
       {
         "id": 1,
         "name": "Monday Ride",
-        "inventory": "Mooshies",
-        "abv": "4.9% ABV",
+        "inventory": "June 12, 2021",
+        "abv": "Road Group Ride",
         "description": "Our collab with McDevitt Taco Supply, this refreshing lager had roasted tortillas added for a hint of roasted corn. Crisp and perfectly balanced for summer fun!",
         "ingredients": [
           "jackfruit",
@@ -51,8 +51,8 @@
       {
         "id": 2,
         "name": "Monday Ride",
-        "inventory": "Krusty Krab",
-        "abv": "5% ABV",
+        "inventory": "June 12, 2021",
+        "abv": "Road Group Ride",
         "description": "Part of our rotating sour series. Made with all natural passion fruit puree. Bright and fruity, inviting passion fruit aroma. Perfect for any time of the year",
         "ingredients": [
           "bun",
@@ -80,8 +80,8 @@
       {
         "id": 3,
         "name": "Monday Ride",
-        "inventory": "Good Burger",
-        "abv": "https://en.wikipedia.org/wiki/Good_Burger",
+        "inventory": "June 12, 2021",
+        "abv": "Road Group Ride",
         "description": "Welcome to Good Burger, home of the Good Burger, can I take your order?",
         "ingredients": [
           "bun",
@@ -105,8 +105,8 @@
       {
         "id": 4,
         "name": "Monday Ride",
-        "inventory": "Max Burgers",
-        "abv": "https://www.max.se/maten/meny/burgare/crunchy-nacho-burger/",
+        "inventory": "June 12, 2021",
+        "abv": "Road Group Ride",
         "description": "The best combination of crunchiness and softness, all in one single burger",
         "ingredients": [
           "sesame bun",
@@ -133,8 +133,8 @@
       {
         "id": 5,
         "name": "Monday Ride",
-        "inventory": "Flower Burger",
-        "abv": "https://www.flowerburger.it/",
+        "inventory": "June 12, 2021",
+        "abv": "Road Group Ride",
         "description": "From a pink explosion was born Barbie Burger, a special edition in partnership with Mattel",
         "ingredients": [
           "pink bun",
@@ -158,8 +158,8 @@
       {
         "id": 6,
         "name": "Monday Ride",
-        "inventory": "Bob's Burgers",
-        "abv": "https://bobs-burgers.fandom.com/wiki/Burger_of_the_Day",
+        "inventory": "June 12, 2021",
+        "abv": "Road Group Ride",
         "description": "N/A",
         "ingredients": [
           "beef",
@@ -180,8 +180,8 @@
       {
         "id": 7,
         "name": "Monday Ride",
-        "inventory": "Burgermeister",
-        "abv": "https://burger-meister.de",
+        "inventory": "June 12, 2021",
+        "abv": "Road Group Ride",
         "description": "Fast food joint located in a public toilet? Why on earth?!",
         "ingredients": [
           "2 x meat",
@@ -212,8 +212,8 @@
       {
         "id": 8,
         "name": "Monday Ride",
-        "inventory": "Indian Burgers",
-        "abv": "https://www.cookwithmanali.com/vegetarian-burger-indian-style/",
+        "inventory": "June 12, 2021",
+        "abv": "Road Group Ride",
         "description": "With summer around the corner, I had to share a vegetarian burger recipe with you guys. Actually I plan to share more in the next month but I thought I will start with this Indian style Vegetarian Burger aka Masala Burger!",
         "ingredients": [
           "american cheese",
@@ -237,8 +237,8 @@
       {
         "id": 9,
         "name": "Monday Ride",
-        "inventory": "Sky City Hamilton",
-        "abv": "https://skycityhamilton.co.nz/eat-drink/eat-burger/",
+        "inventory": "June 12, 2021",
+        "abv": "Road Group Ride",
         "description": "A Christmas themed burger",
         "ingredients": [
           "chicken thigh",
@@ -263,8 +263,8 @@
       {
         "id": 10,
         "name": "Monday Ride",
-        "inventory": "Yankys",
-        "abv": "http://yankyslambton.co.za/menu/",
+        "inventory": "June 12, 2021",
+        "abv": "Road Group Ride",
         "description": "Delicious steak burger",
         "ingredients": [
           "steak",
@@ -291,8 +291,8 @@
       {
         "id": 11,
         "name": "Monday Ride",
-        "inventory": "Yankys",
-        "abv": "http://yankyslambton.co.za/menu/",
+        "inventory": "June 12, 2021",
+        "abv": "Road Group Ride",
         "description": "Massive meaty burger - the size of a dinner plate",
         "ingredients": [
           "250g patty",
